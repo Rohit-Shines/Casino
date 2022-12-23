@@ -24,7 +24,7 @@ Gain 1005
 10 33 6
 RED numbers
 loss 1000
-loss 990
+loss 990.0
 Gain 1010
 31 2 5
 2 5 33
